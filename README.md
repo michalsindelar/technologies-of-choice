@@ -1,2 +1,4 @@
-# technologies-of-choice
-Stack for cool (web) technologies ready to use.
+# Technologies of choice
+
+## Web
+*  Static website generator Hugo [(url)](https://gohugo.io/)
